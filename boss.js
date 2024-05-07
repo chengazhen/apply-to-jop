@@ -5,6 +5,8 @@
 // @description  Display last modify time for Boss job list items
 // @author       Your Name
 // @match        https://www.zhipin.com/*   
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=zhipin.com
+// @homepage     https://github.com/chengazhen/apply-to-jop
 // @grant        none
 // @license MIT
 // ==/UserScript==
